@@ -26,13 +26,13 @@
 
     <Content class="custom"/>
 
-    <!-- <div
+    <div
       class="footer"
       v-if="data.footer"
     >
       {{ data.footer }}
-    </div> -->
-    <CustomFooter/>
+    </div>
+    <!-- <CustomFooter/> -->
   </main>
 </template>
 

@@ -13,7 +13,7 @@ module.exports = {
     // ],
   ],
   head: [
-    ['link', { rel: 'icon', href: '/images/ignition-logo.svg' }]
+    ['link', { rel: 'icon', href: '/images/favicon.png' }]
   ],
   themeConfig: {
     logo: '/images/ignition-logo.svg',
