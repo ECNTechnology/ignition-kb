@@ -25,7 +25,7 @@ Once logged in, click '**My Services**' and select your Inbound 1300 service fro
 
 The first time you edit your service you will be greeted with the following screens.
 
-<img src="../../images/ember_1300configure.png" alt="ember_1300configure" title="ember_1300configure"/>
+<img src="../../images/ignition_1300configure.png" alt="ember_1300configure" title="ember_1300configure"/>
 
 ### Answerpoint Preference
 Note: The answer points will be used in the following preference.

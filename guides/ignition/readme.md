@@ -1,14 +1,16 @@
 ---
-title: Ember Knowledge Base
+title: Ignition Knowledge Base
 date: 2021-12-15T10:41:12.066Z
 ---
-# **Ember Knowledge Base**
+# **Ignition Knowledge Base**
 
 - - -
 
-Welcome to the Ember Knowledge Base
+Welcome to the Ignition Knowledge Base
 
 
-For more information visit [ember.cadiz3.com.au](https://ember.cadiz3.com.au).
+For more information visit [ignition.channelhaus.com.au](https://ignition.channelhaus.com.au).
 
-To learn how to access Ember, click [here](https://kb.cadiz3.com.au/guides/ember/management_portals.html)
+To learn how to access ignition, click [here](https://kb.channelhaus.com.au/guides/ignition/management_portals.html)
+
+guides/ignition/management_portals.html

@@ -25,7 +25,7 @@ You can also see correspondance as the job progresses.
 
 ## New Order
 
-<img src="../../images/ember_neworders.png" alt="orders screen" title="orders screen"/>
+<img src="../../images/ignition_neworders.png" alt="orders screen" title="orders screen"/>
 
 The ‘New Orders’ page allows you to order a number of services.
 
@@ -93,7 +93,7 @@ Enter the following information:
 
 - **Customer Reference**: This will be used in our correspondance to you during the ordering process.
 
-- **Friendly Name:** This will be allow you to identify the service in the Ember portal.
+- **Friendly Name:** This will be allow you to identify the service in the ignition portal.
 
 - **Additional Notes:** Anything else you think is relevant to the order.
 
@@ -195,7 +195,7 @@ Enter the following information:
 
 - **Customer Reference**: This will be used in our correspondance to you during the ordering process.
 
-- **Friendly Name:** This will be allow you to identify the service in the Ember portal.
+- **Friendly Name:** This will be allow you to identify the service in the ignition portal.
 
 - **Additional Notes:** Anything else you think is relevant to the order.
 
@@ -377,7 +377,7 @@ Here you can choose to '**Place a New Order**', or '**View your existing Orders*
 
 Manage your existing phone numbers.
 
-To learn about Embers Number Management, click [here](https://kb.cadiz3.com.au/guides/ember/Number_Manager.html#current-numbers-orders)
+To learn about ignitions Number Management, click [here](https://kb.cadiz3.com.au/guides/ignition/Number_Manager.html#current-numbers-orders)
 
 ### Nbn Internet
 

@@ -23,7 +23,7 @@ There are two main types of Integrations that can be enabled.
 
 From the ‘**Admin**' menu, select '**Integrations**'.
 
- <img src="../../images/ember_integrations.png" alt="integrations dashboard" title="integrations dashboard"/>
+ <img src="../../images/ignition_integrations.png" alt="integrations dashboard" title="integrations dashboard"/>
 
 On this page, you can see all of your active integrations.
 
@@ -78,7 +78,7 @@ Enter the following information:
 
 -	**Token**: Token [optional]
 
- <img src="../../images/ember_integrations_2.png" alt="integrations" title="integrations"/>
+ <img src="../../images/ignition_integrations_2.png" alt="integrations" title="integrations"/>
 
 A custom HTTP header can be added to requests, a typical request will start with X-, for example X-{myvalue}.
 

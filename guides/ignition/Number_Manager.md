@@ -8,7 +8,7 @@ date: 2021-12-15T10:41:12.066Z
 
 From the main menu, hover over ‘**Services**’ and click ‘**Phone Numbers**’.
 
-<img src="../../images/ember_manage_phonenumbers.png" alt="number management scren" title="number management screen"/>
+<img src="../../images/ignition_manage_phonenumbers.png" alt="number management scren" title="number management screen"/>
 
 On this page you can manage the full number lifecycle for your numbers.
 

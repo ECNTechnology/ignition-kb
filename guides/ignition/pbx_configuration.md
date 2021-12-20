@@ -57,7 +57,7 @@ Call recordings can be enabled for inbound calls (per call route), outbound call
 To turn on call recordings for a call route, you must first enable the call recording functionality on your PBX.
 From the PBX Configuration screen, click ‘**Manage Applications**’. <img src="../../images/applications_icon.png" alt="applications icon" title="applications icon" height="50px"/>
 
-<img src="../../images/ember_callrecording.png" alt="enable call recording" title="enable call recording"/>
+<img src="../../images/ignition_callrecording.png" alt="enable call recording" title="enable call recording"/>
 
 Scroll down until you see '**Call Recording**'.
 
@@ -86,13 +86,13 @@ Your changes are now ready to be applied to the PBX.
 Click ‘**Apply Changes**’.
 
 
-<img src="../../images/ember_apply_changes_scheduled.png" alt="applied changes" title="applied changes"/>
+<img src="../../images/ignition_apply_changes_scheduled.png" alt="applied changes" title="applied changes"/>
 
 ### Outbound Calls
 
 To enable call recordings for outbound calls, select '**Offices & Users**'  from the PBX Configuration screen. <img src="../../images/icon_officesandusers.png" alt="offices & users icon" title="offices & users icon" height="50px"/>
 
-<img src="../../images/ember_offices_and_users.png" alt="offices and users screen" title="offices and users screen"/>
+<img src="../../images/ignition_offices_and_users.png" alt="offices and users screen" title="offices and users screen"/>
 
 Select the extension you wish to modify.
 
@@ -107,7 +107,7 @@ Your changes are now ready to be applied to the PBX.
 Click ‘**Apply Changes**’.
 
 
-<img src="../../images/ember_apply_changes_scheduled.png" alt="applied changes" title="applied changes"/>
+<img src="../../images/ignition_apply_changes_scheduled.png" alt="applied changes" title="applied changes"/>
 
 ### Shortcut Codes
 
@@ -171,7 +171,7 @@ From the PBX Configuration screen, click ‘**Manage Applications**’. <img src
 
 
 Enable the call recording encryption and paste a copy of your **PUBLIC KEY**. 
-<div class="custom-block tip"><p class="custom-block-title"></p> <p>To learn how to generate a private key, click [here](https://kb.cadiz3.com.au/guides/ember/pbx_configuration.html#call-recording-encryption)</p></div>
+<div class="custom-block tip"><p class="custom-block-title"></p> <p>To learn how to generate a private key, click [here](https://kb.cadiz3.com.au/guides/ignition/pbx_configuration.html#call-recording-encryption)</p></div>
 
 
 Click '**Save**'

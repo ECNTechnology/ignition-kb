@@ -33,7 +33,7 @@ Click ‘**Save**’ when finished.
 
 ## Auto-Provisioning Firewall Rules
 
-Auto-Provisioning is the method used to remotely configure handsets from the Ember Portal.
+Auto-Provisioning is the method used to remotely configure handsets from the Ignition Portal.
 
 For a phone to be allowed to auto-provision, the WAN IP Address must be added to the ‘**Firewall Rules**'. 
 
@@ -43,7 +43,7 @@ Hover over ‘**Admin**’ then select ‘**Firewall Rules**’.
 
 Click ‘**Add Rule**’ to add a new IP Address to the allowed firewall rules.
 
- <img src="../../images/ember_firewall.png" alt="modify firewall rules" title="firewall rules page"/>
+ <img src="../../images/ignition_firewall.png" alt="modify firewall rules" title="firewall rules page"/>
 
 ## Client Associations
 
