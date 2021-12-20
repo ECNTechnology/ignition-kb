@@ -42,14 +42,14 @@ Note: The answer points will be used in the following preference.
 Click ‘**Configure**’ to add a ‘**default answer point**’. This will be used in the event there is no more specific answer point specified below.
 
 
-<img src="../../images/ember_1300_defaultAP.png" alt="default answerpoint" title="default answerpoint"/>
+<img src="../../images/ignition_1300_defaultAP.png" alt="default answerpoint" title="default answerpoint"/>
 
 Use the tickbox to enable ‘**Time of Day**’ routing.
 
 Select the hours and the phone number to be used when ‘Closed’.
 
 
-<img src="../../images/ember_1300_timeofdayrouting.png" alt="time of day routing" title="time of day routing"/>
+<img src="../../images/ignition_1300_timeofdayrouting.png" alt="time of day routing" title="time of day routing"/>
 
 Click ‘**Save**’ when finished.
 
@@ -59,7 +59,7 @@ To apply your changes, click ‘**Apply Changes**’.
 
 Click the ‘**Add**’ button to enable area based routing.
 
-<img src="../../images/ember_1300_areabaserouting.png" alt="area based routing" title="area based routing"/>
+<img src="../../images/ignition_1300_areabaserouting.png" alt="area based routing" title="area based routing"/>
 
 
 Specify Landline or Mobile.

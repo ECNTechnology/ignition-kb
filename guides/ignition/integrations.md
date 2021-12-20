@@ -1,6 +1,6 @@
 ---
 title: Integrations
-date: 2021-12-15T10:41:12.066Z
+date: 2021-12-15T10:41:13.066Z
 ---
 # **Integrations**
 
