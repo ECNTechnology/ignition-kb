@@ -171,7 +171,7 @@ From the PBX Configuration screen, click ‘**Manage Applications**’. <img src
 
 
 Enable the call recording encryption and paste a copy of your **PUBLIC KEY**. 
-<div class="custom-block tip"><p class="custom-block-title"></p> <p>To learn how to generate a private key, click [here](https://kb.cadiz3.com.au/guides/ignition/pbx_configuration.html#call-recording-encryption)</p></div>
+<div class="custom-block tip"><p class="custom-block-title"></p> <p>To learn how to generate a private key, click [here](https://kb.channelhaus.com.au/guides/ignition/pbx_configuration.html#call-recording-encryption)</p></div>
 
 
 Click '**Save**'
