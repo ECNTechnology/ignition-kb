@@ -105,6 +105,26 @@ Enter the following Information:
 
 Click the '**Sumbit**' button when ready to proceed.
 
+#### Step 2 
+---
+
+<img src="../../images/vanity_verify_1.png" alt="Add Vanity Number Step 2" title="Add Vanity Number Step 2" width="100%"/>
+
+Locate the number by using the search function.
+
+To Verify the number, click the <img src="../../images/vanity_verify.png" alt="verify number" title="verify number" height="25px"/> button. 
+
+#### Step 3
+---
+<img src="../../images/vanity_verify_2.png" alt="Add Vanity Number Step 3" title="Add Vanity Number Step 3" width="100%"/>
+
+Click the '**Initiate Call**' button.
+
+You will receive a call momentarily to provide you with a verification code to verify this Vanity Number.
+
+Enter the code, then click the <img src="../../images/vanity_verify_4.png" alt="verify number" title="verify number" height="25px"/> button. 
+
+
 ## Port Single Number
 Port a single number.
 
@@ -218,6 +238,8 @@ Cancel a phone number.
 <img src="../../images/disconnect_1.png" alt="Disconnect Number Tile" title="Disconnect Number Tile" width="52%"/>
 
 Click the '**Disconnect Number**' tile to begin.
+
+
 
 #### Step 1
 ---
