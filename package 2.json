@@ -1,0 +1,29 @@
+{
+  "name": "ecn-kb",
+  "version": "1.0.0",
+  "description": "Ignition Knowledge Base",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vuepress dev",
+    "docs:build": "vuepress build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ECNTechnology/knowledge-base.git"
+  },
+  "keywords": [],
+  "author": "ECN Technology",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ECNTechnology/knowledge-base/issues"
+  },
+  "private": true,
+  "dependencies": {
+    "vuepress": "^1.7.1"
+  },
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.7.1",
+    "@vuepress/plugin-google-analytics": "^1.7.1"
+  }
+}

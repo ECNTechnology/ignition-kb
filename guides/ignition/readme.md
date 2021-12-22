@@ -12,5 +12,3 @@ Welcome to the Ignition Knowledge Base
 For more information visit [ignition.channelhaus.com.au](https://ignition.channelhaus.com.au).
 
 To learn how to access ignition, click [here](https://kb.channelhaus.com.au/guides/ignition/management_portals.html)
-
-guides/ignition/management_portals.html

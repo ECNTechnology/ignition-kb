@@ -377,7 +377,7 @@ Here you can choose to '**Place a New Order**', or '**View your existing Orders*
 
 Manage your existing phone numbers.
 
-To learn about ignitions Number Management, click [here](https://kb.cadiz3.com.au/guides/ignition/Number_Manager.html#current-numbers-orders)
+To learn about ignitions Number Management, click [here](https://kb.channelhaus.com.au/guides/ignition/Number_Manager.html#current-numbers-orders)
 
 ### Nbn Internet
 

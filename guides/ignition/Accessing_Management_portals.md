@@ -6,7 +6,7 @@ date: 2021-12-15T10:41:12.066Z
 
 - - -
 
-To log into the ignition Management Portal, navigate to <a href="https://ignition.cadiz3.com.au ">https://ignition.cadiz3.com.au </a>and enter your *Username* & *Password*.
+To log into the ignition Management Portal, navigate to <a href="https://ignition.channelhaus.com.au ">https://ignition.channelhaus.com.au </a>and enter your *Username* & *Password*.
 
 <img src="../../images/ignition_loginscreen.png" alt="login" title="login screen"/>
 
@@ -20,7 +20,7 @@ You will receive an email allowing you to reset your password automatically.
 
 ## ignition landing page
 
-When you first login, you will be greeted by the landing page which gives you a quick overview of your Services, Billing, and the Cadiz3 Network Status.
+When you first login, you will be greeted by the landing page which gives you a quick overview of your Services, Billing, and the Channel Haus Network Status.
 
 Click on any of the tiles to quickly access the corresponding page.
 
