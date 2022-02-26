@@ -186,6 +186,63 @@ To decrypt call recordings, use the following command. (Adjust for your filename
 <div class="custom-block tip"><p class="custom-block-title">COMMAND</p> <p>openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECORDING_NAME.mp3 -inkey myprivatekey.pem</p></div>
 
 
+## Holiday Conditions
+
+A **_Holiday Condition_** allows you to automatically divert your calls to another activity during a pre-definited time range.
+
+This could be a mobile number, voicemail, or even just a different group of extensions.
+
+This guide will help you configure a Holiday Condition for your PBX.
+
+### Configuring a Holiday Condition
+
+
+To configure a Holiday Condition, click on the '**Holidays**' icon from the PBX Configuration screen. <img src="../../images/holidays.png" alt="holidays icon" title="holidays icon" height="50px"/>
+
+<img src="../../images/holidays_1.png" alt="holidays screen" title="holidays screen"/>
+
+If you want to edit an existing condition, you can click '**View/Edit**' on that, otherwise click '**Add Condition**'.
+
+<img src="../../images/holidays_2.png" alt="holidays screen" title="holidays screen"/>
+
+Give the holiday condition a **Name**. (This is for your reference later).
+
+Add in as many dates that your office will be **closed**.
+
+::: warning
+**Note:** The office will be closed for the **entire day and night** selected.
+:::
+
+On the right hand side of the screen you can choose what will happen on any given holiday.
+
+In this instance we're going onto an '**_Announcement_**' called 'After Hours Voicemail'.
+
+Click '**_Save_**' when you're finished making changes.
+
+### Enable the Holiday Condition
+
+
+You will now need to assign the holiday condition to an inbound route.
+
+Click '**_Return to Service_**' to go back to the PBX homepage and select '**_Call Routing_**'.
+
+<img src="../../images/holidays_3.png" alt="call routing screen" title="call routing screen"/>
+
+Locate the number you wish to apply the Holiday Condition to, and click '**View/Edit**'.
+
+From the drop-down list select the Holiday Condition you wish to apply to the call route.
+
+Once finished, click '**Save**'.
+
+
+<img style="width: auto; height: auto;" src="../../images/apply_changes.png">
+
+Your changes are now ready to '***Apply***' to your PBX.
+
+Click '***Apply Changes***'.
+
+
+
 ## Voicemail
 
 ### Personal Voicemail
