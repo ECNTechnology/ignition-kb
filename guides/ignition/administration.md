@@ -43,7 +43,7 @@ Hover over ‘**Admin**’ then select ‘**Firewall Rules**’.
 
 Click ‘**Add Rule**’ to add a new IP Address to the allowed firewall rules.
 
- <img src="../../images/ignition_firewall.png" alt="modify firewall rules" title="firewall rules page"/>
+ <img src="../../images/firewall.png" alt="modify firewall rules" title="firewall rules page"/>
 
 ## Client Associations
 

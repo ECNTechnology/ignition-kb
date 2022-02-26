@@ -25,7 +25,7 @@ You can also see correspondance as the job progresses.
 
 ## New Order
 
-<img src="../../images/ignition_neworders.png" alt="orders screen" title="orders screen"/>
+<img src="../../images/neworders.png" alt="orders screen" title="orders screen"/>
 
 The ‘New Orders’ page allows you to order a number of services.
 

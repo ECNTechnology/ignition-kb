@@ -57,7 +57,7 @@ Call recordings can be enabled for inbound calls (per call route), outbound call
 To turn on call recordings for a call route, you must first enable the call recording functionality on your PBX.
 From the PBX Configuration screen, click ‘**Manage Applications**’. <img src="../../images/applications_icon.png" alt="applications icon" title="applications icon" height="50px"/>
 
-<img src="../../images/ignition_callrecording.png" alt="enable call recording" title="enable call recording"/>
+<img src="../../images/callrecording.png" alt="enable call recording" title="enable call recording"/>
 
 Scroll down until you see '**Call Recording**'.
 
@@ -86,13 +86,13 @@ Your changes are now ready to be applied to the PBX.
 Click ‘**Apply Changes**’.
 
 
-<img src="../../images/ignition_apply_changes_scheduled.png" alt="applied changes" title="applied changes"/>
+<img src="../../images/apply_changes_scheduled.png" alt="applied changes" title="applied changes"/>
 
 ### Outbound Calls
 
 To enable call recordings for outbound calls, select '**Offices & Users**'  from the PBX Configuration screen. <img src="../../images/icon_officesandusers.png" alt="offices & users icon" title="offices & users icon" height="50px"/>
 
-<img src="../../images/ignition_offices_and_users.png" alt="offices and users screen" title="offices and users screen"/>
+<img src="../../images/offices_and_users.png" alt="offices and users screen" title="offices and users screen"/>
 
 Select the extension you wish to modify.
 
@@ -107,7 +107,7 @@ Your changes are now ready to be applied to the PBX.
 Click ‘**Apply Changes**’.
 
 
-<img src="../../images/ignition_apply_changes_scheduled.png" alt="applied changes" title="applied changes"/>
+<img src="../../images/apply_changes_scheduled.png" alt="applied changes" title="applied changes"/>
 
 ### Shortcut Codes
 

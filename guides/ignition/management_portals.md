@@ -8,7 +8,7 @@ date: 2021-12-15T10:41:12.066Z
 
 To log into the ignition Management Portal, navigate to <a href="https://ignition.channelhaus.com.au ">https://ignition.channelhaus.com.au </a>and enter your *Username* & *Password*.
 
-<img src="../../images/ignition_loginscreen.png" alt="login" title="login screen"/>
+<img src="../../images/loginscreen.png" alt="login" title="login screen"/>
 
 Enter your ‘**Email**’ and ‘**Password**’ then click ‘**Login**’ to access the Ignition Portal.
 
@@ -24,7 +24,7 @@ When you first login, you will be greeted by the landing page which gives you a 
 
 Click on any of the tiles to quickly access the corresponding page.
 
-<img src="../../images/ignition_landingpage.png" alt="login" title="ignition landing page"/>
+<img src="../../images/landingpage.png" alt="login" title="ignition landing page"/>
 
 
 ## Account Management
