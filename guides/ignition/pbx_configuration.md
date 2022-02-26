@@ -186,3 +186,47 @@ To decrypt call recordings, use the following command. (Adjust for your filename
 <div class="custom-block tip"><p class="custom-block-title">COMMAND</p> <p>openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECORDING_NAME.mp3 -inkey myprivatekey.pem</p></div>
 
 
+## Voicemail
+
+### Personal Voicemail
+
+Each extension has the option to have personal voicemail enabled. This voicemail will only plan if an extension is **directly dialled** (not part of a ring group).
+
+#### Enable Voicemail on Extension
+
+To configure voicemail on an extension, click on the '**Offices & Users**' icon from the PBX Configuration screen. <img src="../../images/icon_officesandusers.png" alt="offices & users icon" title="offices & users icon" height="50px"/>
+
+<img src="../../images/office_and_users_list.png" alt="offices and users" title="offices and users"/>
+
+Select the extension you wish to modify.
+
+Scroll down until you reach the '**Voicemail**' section.
+
+<img src="../../images/enable_voicemail.png" alt="enable voicemail" title="enable voicemail"/>
+
+To enable the voicemail feature, tick '**Enable Voicemail**'
+
+Here you can set the following information:
+
+* **Voicemail PIN**: This is the PIN you will enter to access the voicemail system.
+* **Send Messages to my Mailbox**: When selected, the voicemail will be emailed to the address nominated.
+* **Delete messages after emailing them**: When selected emails will no longer be retrievable from your handset and will be only accessed via email.
+
+Scroll down the page and click '**Save**' when you are finished.
+
+
+
+<img style="width: auto; height: auto;" src="../../images/apply_changes.png">
+
+Your changes are now ready to '***Apply***' to your PBX.
+
+Click '***Apply Changes***'.
+
+#### Accessing Voicemail
+
+To access the Voicemail system, dial **777** from your phone, or press the '_**Voicemail**_' Button on your handset if it has one.
+
+The voicemail system will then prompt you to enter your _**PIN**_ followed by the **\#** key.
+
+Once authenticated to the voicemail system, you will be able to follow the prompts to record your personal voicemail messages, and listen to voicemails left for you.
+
