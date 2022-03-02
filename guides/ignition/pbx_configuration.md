@@ -185,6 +185,46 @@ To decrypt call recordings, use the following command. (Adjust for your filename
 
 <div class="custom-block tip"><p class="custom-block-title">COMMAND</p> <p>openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECORDING_NAME.mp3 -inkey myprivatekey.pem</p></div>
 
+## Emergency Routing and Failover
+----
+
+myCloudPBX Emergency Routing provides automatic routing of a call to an alternate activity in the event that all selected extensions are not online. This feature can provide automatic failover in the event of an on-site issue (such as a power outage or Internet issue).
+
+Note that you may choose between 1 and 3 extensions, however all selected extensions must be offline for the emergency activity to be used.
+
+This alternate activity can be anything you like, such as a custom voicemail message or even a mobile number.
+
+### Configure Emergency Routing
+----
+
+This guide assumes you are already logged into the IGNITION Portal and have selected your PBX.
+
+The first thing you are going to do is select '_**Call Routing**_' from the PBX homepage.
+
+<img src="../../images/holidays_3.png" alt="call routing screen" title="call routing screen"/>
+
+Click '**_View/Edit_**' on the number you wish to modify.
+
+<img src="../../images/emergency_routing.png" alt="emergency routing" title="emergency routing"/>
+
+Locate the '_**Emergency Routing**_' section and tick the option on.
+
+Here you will need to select the extensions you wish to 'monitor'. (You should select the main phones that ring for this number).
+
+Next, select the '_**Emergency Activity Type**_'.
+
+This will most likely be either 'Announcement' (for voicemail) or 'External Phone Number'.
+
+Finally, select the '_**Emergency Activity**_'.
+
+Once finished, click '**Save**'.
+
+
+<img style="width: auto; height: auto;" src="../../images/apply_changes.png">
+
+Your changes are now ready to '***Apply***' to your PBX.
+
+Click '***Apply Changes***'.
 
 ## Holiday Conditions
 
