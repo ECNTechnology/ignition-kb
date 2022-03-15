@@ -185,6 +185,7 @@ To decrypt call recordings, use the following command. (Adjust for your filename
 
 <div class="custom-block tip"><p class="custom-block-title">COMMAND</p> <p>openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECORDING_NAME.mp3 -inkey myprivatekey.pem</p></div>
 
+
 ## Conference Calls
 ----
 
