@@ -185,6 +185,78 @@ To decrypt call recordings, use the following command. (Adjust for your filename
 
 <div class="custom-block tip"><p class="custom-block-title">COMMAND</p> <p>openssl smime -decrypt -binary -in RECORDING_NAME.mp3.enc -inform DER -out RECORDING_NAME.mp3 -inkey myprivatekey.pem</p></div>
 
+## Conference Calls
+----
+
+There are two ways to access the myCloudPBX conference bridge.
+
+* A dedicated inbound number.
+* A virtual extension. (internal use speed dial).
+
+::: tip
+**Note:** Each inbound call on your conference line will count toward you PBX channel count. If you are unsure how many channels you have available, contact your administrator.
+:::
+
+
+### Dedicated Conference Number
+
+From the PBX homepage, select '_**Call Routing**_.
+
+<img style="width: auto; height: auto;" src="../../images/conference_routing.png">
+
+If you are modifying an existing an existing call route, click 'view/edit' next to the number you wish to modify, otherwise click 'Add Call Route'.
+
+<img style="width: auto; height: auto;" src="../../images/conference_2.png">
+
+When creating a call route for a Conference line, you will need to fill in the following information:
+
+**Timezone:** This will be used to ensure correct timestamps.
+
+**Phone Number:** This is the inbound number you will be using.
+
+**Call Alert Name:** This is mostly for your reference.
+
+
+::: tip
+**Add a Passcode:** If you wish to enable a passcode, check '**_Caller Passcode_**' and enter in a **Passcode** that will need to be entered for anyone dialling your conference number.
+:::
+
+The last thing you'll need to configure is the '_**Activity**_':
+
+* **Activity Type:** Conference (Basic)
+* **Activity:** Choose a conference room number
+
+Scroll down the page and click '**Save**' when you are finished.
+
+<img style="width: auto; height: auto;" src="../../images/apply_changes.png">
+
+Your changes are now ready to '***Apply***' to your PBX.
+
+### Internal Speed Dial
+
+Creating a virtual extension directly to the conference room allows you to enter a conference without dialling the full 10 digit phone number.
+
+To begin, select '_**Virtual Extensions**_' from the PBX homepage.
+
+<img style="width: auto; height: auto;" src="../../images/conference_3.png">
+
+Click '**_Add Virtual Extension_**'.
+
+<img style="width: auto; height: auto;" src="../../images/conference_4.png">
+
+Enter the following information:
+
+* **Name:** This is for your reference.
+* **Extension Number:** This is the 3 or 4 digit speed dial number.
+* **Activity Type:** Conference Basic
+* **Activity:** Select a conference room number.
+
+Click '**Save**' when you are finished.
+
+<img style="width: auto; height: auto;" src="../../images/apply_changes.png">
+
+Your changes are now ready to '***Apply***' to your PBX.
+
 ## Emergency Routing and Failover
 ----
 
