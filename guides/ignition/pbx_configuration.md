@@ -52,6 +52,10 @@ Make sure that it is ticked and note down the '**Allocated Dial Code**'
 
 Call recordings can be enabled for inbound calls (per call route), outbound calls (per extensions), or both.
 
+::: tip
+**Note:** Once enabled, calls will be recorded even if they are not answered.
+:::
+
 ### Enable Call Recording Application
 
 To turn on call recordings for a call route, you must first enable the call recording functionality on your PBX.
@@ -187,7 +191,6 @@ To decrypt call recordings, use the following command. (Adjust for your filename
 
 
 ## Conference Calls
-----
 
 There are two ways to access the myCloudPBX conference bridge.
 
