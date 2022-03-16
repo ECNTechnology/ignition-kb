@@ -206,7 +206,7 @@ There are two ways to access the myCloudPBX conference bridge.
 
 From the PBX homepage, select '_**Call Routing**_.
 
-<img style="width: auto; height: auto;" src="../../images/conference_routing.png">
+<img style="width: auto; height: auto;" src="../../images/Conference_routing.png">
 
 If you are modifying an existing an existing call route, click 'view/edit' next to the number you wish to modify, otherwise click 'Add Call Route'.
 
