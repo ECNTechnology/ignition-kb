@@ -32,11 +32,11 @@ From the myCloudPBX Portal, click on '**_Offices & Users_**‘.  <img src="../..
 
 Select the extension you wish to modify.
 
-![](../../images/eavesdropping_enable.png)
+![](../../images/trainingmode.png)
 
 * To allow an extension to listen in on others, select '**_Enable Training Mode_**'.
 
-![](../../images/eavesdropping_privacy.png)
+![](../../images/trainingmode_privacy.png)
 
 
 * Selecting '_**Enable Extension Privacy**_‘ will ensure that no one can listen in on the extension. (useful for management etc.)
