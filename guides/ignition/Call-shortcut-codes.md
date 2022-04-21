@@ -9,6 +9,71 @@ date: 2022-01-05T03:55:10.651Z
 Eavesdropping enables the ability to listen, or 'eavesdrop‘ on a call. This is useful for call centre training operations where a supervisor or manager can listen in to an agents live call and provide realtime feedback.
 
 
+### Enable Eavesdropping on the PBX.
+
+From the PBX Configuration screen, click ‘**Manage Applications**’. <img src="../../images/applications_icon.png" alt="applications icon" title="applications icon" height="50px"/>
+
+
+Once inside the add-ons screen, enable the 'eavesdropping‘ option.
+
+
+::: tip
+After enabling eavesdropping, all extensions will now have the ability to enable eavesdropping & eavesdropping privacy.
+:::
+
+### Enable Eavesdropping On Per User Basis.
+
+Eavesdropping & Eavesdropping Privacy are configured on a per extension basis.
+
+
+From the myCloudPBX Portal, click on '**_Offices & Users_**‘.  <img src="../../images/icon_officesandusers.png" alt="offices & users icon" title="offices & users icon" height="50px"/>
+
+<img src="../../images/office_and_users_list.png" alt="offices and users" title="offices and users"/>
+
+Select the extension you wish to modify.
+
+![](../../images/eavesdropping_enable.png)
+
+* To allow an extension to eavesdrop on others, select '**_Enable EavesDropping_**'.
+
+![](../../images/eavesdropping_privacy.png)
+
+
+* Selecting '_**Enable Extension Privacy**_‘ will ensure that no one can eavesdrop on the extension. (useful for management etc.)
+
+::: tip
+Select both options to have the best of both worlds
+:::
+
+
+## In Call Controls
+
+To begin Eavesdropping, dial **88** followed by the extension number to listen to.
+
+
+During a call, a Manger/Supervisor has the ability to speak with a user, the remote party, or both using the below shortcuts.
+
+These controls are based on the direction of the call.
+
+#### **For Outgoing Calls:**
+* Press **1** to speak with the _**Remote Party**_.
+* Press **2** to speak with the _**PBX User**_.
+* Press **3** to engage _**3 way chat**_.
+* Press **0** Mute yourself.
+
+#### **For Incoming Calls:**
+* Press **1** to speak with the _**PBX User**_.
+* Press **2** to speak with the _**Remote Party**_.
+* Press **3** to engage _**3 way chat**_.
+* Press **0** to Mute yourself.
+
+
+
+
+
+
+
+
 ## In-Call Shortcuts
 
 #### Group Intercept
