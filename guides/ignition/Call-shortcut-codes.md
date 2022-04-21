@@ -32,19 +32,21 @@ From the myCloudPBX Portal, click on '**_Offices & Users_**‘.  <img src="../..
 
 Select the extension you wish to modify.
 
+
+
+To allow an extension to listen in on others, select '**_Enable Training Mode_**'.
+
 ![](../../images/trainingmode.png)
 
-* To allow an extension to listen in on others, select '**_Enable Training Mode_**'.
+Selecting '_**Enable Extension Privacy**_‘ will ensure that no one can listen in on the extension. (useful for management etc.)
 
 ![](../../images/trainingmode_privacy.png)
 
 
-* Selecting '_**Enable Extension Privacy**_‘ will ensure that no one can listen in on the extension. (useful for management etc.)
+A manager might select both options, allowing them to listen in / provide training to others, and also block others from listening into them.
 
-::: tip
-Select both options to have the best of both worlds
-:::
 
+![](../../images/trainingmode_admin.png)
 
 ### Training Mode Call Controls
 
