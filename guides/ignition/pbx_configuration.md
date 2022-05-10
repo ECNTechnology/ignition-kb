@@ -131,9 +131,42 @@ During an active call you can use the following shortcut codes.
 
 There are two ways to access your call recordings.
 
--	FTP
+* FTP
 
--	Hosted PBX Dashboard
+* Hosted PBX Dashboard
+
+#### Downloading Call Recordings with FTP
+
+Ensure you have a current version of the **'filezilla FTP client'** from the following link: (<https://filezilla-project.org/download.php>)
+
+<img src="../../images/ftp_callrecordings_filezilla.png" alt="ftp filezilla" title="ftp filezilla"/>
+
+
+When prompted, enter the following information:
+
+* **HOST:** ftp.mycloudpbx.com.au
+* **Username:** The username listed in the portal.
+* **Password:** The password configured in the portal.
+
+Click '**QuickConnect**'.
+
+When prompted about the certificate:
+
+* Tick 'Always trust certificate in future sessions'.'
+
+* Tick 'Trust this certificate on the listed alternative hostnames'
+
+Click '**OK**'.
+
+<img src="../../images/ftp_callrecordings_filezilla2.png" alt="ftp filezilla" title="ftp filezilla"/>
+
+
+
+You will now see the recorded files listed on the right hand side of fileZilla, and your local machine on the left hand side of fileZilla.
+
+Simply drag and drop the files you wish to copy from the right hand side, onto your local machine on the left hand side.
+
+
 
 ### Call Recording Encryption
 
