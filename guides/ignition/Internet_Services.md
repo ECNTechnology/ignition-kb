@@ -77,9 +77,8 @@ You will need to enter in the following information:
 * **Description**: This is for your reference only.
 * **Internet Service**: Choose 'VDSL'.
 * **Connection Type**: Choose 'PPPoE'.
-* **Username**: Enter the username provided by Channel Haus. (Available at * https://ignition.channelhaus.com.au).
-* **Password**: Enter the password provided by Channel Haus. (Available at 
-  https://ignition.channelhaus.com.au).
+* **Username**: Enter the username provided by Channel Haus.
+* **Password**: Enter the password provided by Channel Haus.
 * **802.1P:** Leave unchanged at -1
 * **VLAN Tag:** Leave unchanged at -1 (unless advised specifically by Channel Haus).
   ::: tip
@@ -113,9 +112,8 @@ You will need to enter in the following information:
 * **Description**: This is for your reference only.
 * **Internet Service**: Choose 'Ethernet WAN'.
 * **Connection Type**: Choose 'PPPoE'.
-* **Username**: Enter the username provided by Channel Haus. (Available at * https://ignition.channelhaus.com.au).
-* **Password**: Enter the password provided by Channel Haus. (Available at 
-  https://ignition.channelhaus.com.au).
+* **Username**: Enter the username provided by Channel Haus.
+* **Password**: Enter the password provided by Channel Haus.
 * **802.1P:** Leave unchanged at -1
 * **VLAN Tag:** Leave unchanged at -1 (unless advised specifically by Channel Haus).
   ::: tip
