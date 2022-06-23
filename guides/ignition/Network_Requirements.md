@@ -80,7 +80,7 @@ The following firewall configurations are required for myCloudPBX Hosted Voice p
 <td style="width: 25%; height: 21px;">Used for SIP signalling (Standard SIP Port, for default Internal Profile)</td>
 </tr>
 <tr style="height: 21px;">
-<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">16384 - 32768</td>
+<td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">0 - 65536</td>
 <td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">UDP</td>
 <td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">RTP / RTCP multimedia streaming</td>
 <td style="background-color: rgba(29, 119, 209, 0.1); width: 25%; height: 21px;">Used for audio/video data in SIP and other protocols.</td>
