@@ -299,7 +299,7 @@ The Inbound Calls _Summary Report_ summarises calls to Phone Numbers configured 
   </tr>
   <tr>
     <td> <br>AverageRingTimePerUser </td>
-    <td> <br>Average Time Users’ handsets rang prior to being answered for all Users who answered calls to the Target Number. <br><br> This field is not yet populated and is reserved for future use. </td>
+    <td> <br>Average Time Users’ handsets rang prior to being answered for all Users who answered calls to the Target Number.</td>
   </tr>
   <tr>
     <td> <br>AverageCallTimeToAnswer </td>
@@ -307,7 +307,7 @@ The Inbound Calls _Summary Report_ summarises calls to Phone Numbers configured 
   </tr>
   <tr>
     <td> <br>TotalCallTimeToAnswer </td>
-    <td> <br>Aggregate Time calls to the Target Number spent in the myCloudPBX before being answered by the first user for each call, is included in this total. </td>
+    <td> <br>Aggregate Time calls to the Target Number spent in the myCloudPBX before being answered by the first user for each call, is included in this total. <br><br> This field is not yet populated and is reserved for future use.  </td>
   </tr>
   <tr>
     <td> <br>TotalVoicemail </td>
