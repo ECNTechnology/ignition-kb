@@ -126,7 +126,7 @@ Here you can see the following information:
 * **Extension:** Displays the extension number of the Agent.
 * **Talking to:** Displays the caller ID (where available) of the person the agent is speaking with.
 * **Time In Call:** Displays the total time the agent has been on their current call.
-* **Call Status:** Will show as either '**Available**' or '**In Call**'
+* **Call Status:** Will show as either '**Available**' or '**In Call**', or '**Held**'.
 
 ### Calls In Queue Information
 
