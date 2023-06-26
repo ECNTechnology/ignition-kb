@@ -98,7 +98,7 @@ You can also see the 'queue type' listed here.
 Here you can see the following information:
 
 * **Total Calls:** Total number of calls entering this queue today.
-* **Lost Calls:** Number of calls that entered the queue today that hung up and were not answered. All  Lost calls shown here will also be visible on the Lost call report.
+* **Lost Calls:** The number of calls that entered this call queue today that were not answered. The caller hung up before the call could either be answered, or the call could timeout to the Next Activity. All Lost calls counted here will also be visible on the Lost call report.
 
 ::: tip
 
@@ -106,14 +106,16 @@ Here you can see the following information:
   
 :::
 
-* **Timed Out / Exits:** Number of calls that entered the queue today, were not answered and progressed to the next activity. If the caller uses the 'press 1 to leave a voicemail' option, this will count towards the 'timed out/ exits' tally.
+* **Timed Out / Exits:** The number of calls that entered this call queue today, that either timed out to the next activity, or the caller selected to exit the queue. <br>
+It is possible for this call to have been answered elsewhere in another portion of the call flow outside of this queue. (or not answered at all) <br>
+These calls will not show as lost calls for this queue, but may be considered ‘lost’ in another queue.
 
 ::: tip
 
- A call that times out, is not classified as Lost.
+A call that times out, is not classified as Lost for this call queue.
 
   :::
-* **Avg. Wait Time:** Average time callers waited prior to being answered.
+* **Avg. Wait Time:** Average time callers waited prior to being answered. (Unsanswered calls do not count toward this total)
 * **Avg. Talk Time:** Average time spent talking on calls answered in this queue.
 
 ### Agent Status Information
