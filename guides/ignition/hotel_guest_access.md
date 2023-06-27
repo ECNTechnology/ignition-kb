@@ -66,7 +66,7 @@ To configure a Guest User, select '**Offices & Users**'  from the PBX Configurat
 
 Click on the '**+**' icon to add a new user, or select an existing extension if to modify.
 
-<img style="width: auto; height: auto;" src="../../images/hotel_4.png">
+<img style="width: auto; height: auto;" src="../../images/hotel_5.png">
 
 Enter the following information: 
 
