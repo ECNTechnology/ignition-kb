@@ -17,10 +17,9 @@ Each gest user will be provisioned with the same set of line keys (eg: 'Receptio
 <br>
 Use Cases: 
   - This type of user is perfect for use in a Hotel Room, where you want to configure a large group of users rapidly.
+  - School classrooms.
   - VoIP Cameras.
   - Doorbells & Gate Systems.
-<br>
-Due to the restrictions on available functionality, these users are charged at a lower rate to standard users.
 <br>
 
 
