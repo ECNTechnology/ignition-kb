@@ -97,7 +97,7 @@ Your changes are now ready to be applied to the PBX.
 
 Click ‘**Apply Changes**’.
 
-<img src="../../images/ember_apply_changes_scheduled.png" alt="applied changes" title="applied changes"/>
+<img src="../../images/ignition_apply_changes_scheduled.png" alt="applied changes" title="applied changes"/>
 
 
 
