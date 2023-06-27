@@ -30,10 +30,9 @@ The first step is to enable the **'Hotel/Guest Access'** application for the PBX
 
 From the PBX Configuration screen, click ‘**Manage Applications**’. <img src="../../images/applications_icon.png" alt="applications icon" title="applications icon" height="50px"/>
 
+<img style="width: 800px; height: auto;" src="../../images/hotel_1.png">
 
 Once you have enabled the feature, you will see there is new icon for **'Hotel/Guest Access'** visible under the 'Active Applications' heading on the configuration page of the PBX.
-
-<img style="width: 800px; height: auto;" src="../../images/hotel_1.png">
 
 
 ## Configure Guest Access
