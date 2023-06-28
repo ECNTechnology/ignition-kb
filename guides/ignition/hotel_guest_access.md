@@ -1,5 +1,5 @@
 ---
-title: Hote/Guest Access
+title: Hotel/Guest Access
 date: 2023-06-26T15:25:00.676Z
 ---
 # Hotel / Guest Access
