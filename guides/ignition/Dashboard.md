@@ -146,6 +146,29 @@ Each call queue will have it's own '**Waiting time**'.
 
 ## Call Reports
 
+
+### Call Reports FAQs
+
+**Why does the data in the '*Inbound Calls*' report, not match exactly with the data in the Total Calls report?**
+
+These reports are not reporting on the same data and are not built to be "compared" in this manner.
+
+The '*Inbound Calls*' report will show all _inbound calls_ to the phone system from external sources, regardless of if they are answered.
+
+You can filter this down to calls that were answered by filtering on the 'FirstUserToAnswer' column. If however, a call is transferred to another user, you will not see that in this report.
+
+The '*Total Call Count*' report, however shows all calls, including transferred calls. 
+You can generate the report with "Direction = In" which will show all of the calls, INCLUDING all of the talkers on the call. 
+
+::: tip Example:
+
+An inbound call that is answered by Bob Sacamano on ext 101, that is then transferred to Jay Riemen-schneider on ext 201.
+
+This will show as:
+ - _One_ inbound call on the '*Inbound Calls*' report.
+ - _Two_ inbound calls on the '*Total Call Count*' report.
+:::
+
 ### Reporting Terminology
 
 <table>
